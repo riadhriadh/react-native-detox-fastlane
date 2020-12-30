@@ -1,0 +1,7 @@
+{
+    "setupTestFrameworkScriptFile": "./init.js",
+    "testTimeout": 1200,
+    "testRegex": "\\.e2e\\.js$",
+    "reporters": ["detox/runners/jest/streamlineReporter"],
+    "verbose": true
+}

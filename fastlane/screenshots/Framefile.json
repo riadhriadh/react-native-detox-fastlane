@@ -1,0 +1,26 @@
+{
+    "device_frame_version": "latest",
+    "default": {
+        "use_platform": "ANDROID",
+
+      "background": "./background.png",
+      "title": {
+        "color": "#ffffff"
+      },
+      "padding": 40
+    },
+    "data": [
+      {
+        "filter": "screenshot",
+        "keyword": {
+          "color": "#FF0000",
+          "text": "screenshot"
+        },
+        "title": {
+          "color": "#FFFFFF",
+          "text": " Login"
+        }
+      }
+    ]
+  }
+  
