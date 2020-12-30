@@ -1,7 +1,12 @@
 # react-native-detox-fastlane
-run build app with fastlane 
-fastlane android beta
-run test e2e 
-fastlane android screenshots
-run report fastlane 
-fastlane  frameit
+run build app with fastlane.  /n
+
+fastlane android beta     /n 
+
+run test e2e             /n
+
+
+fastlane android screenshots. /n 
+
+run report fastlane     /n
+fastlane  frameit      /n
