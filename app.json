@@ -1,0 +1,12 @@
+{
+  "name": "my-projectcdci",
+  "displayName": "my-projectcdci",
+  "expo": {
+    "name": "my-projectcdci",
+    "slug": "my-projectcdci",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
